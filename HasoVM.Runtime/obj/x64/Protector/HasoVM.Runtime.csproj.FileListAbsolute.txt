@@ -1,0 +1,4 @@
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Runtime\bin\x64\Protector\HasoVM.Runtime.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Runtime\obj\x64\Protector\HasoVM.Runtime.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Runtime\obj\x64\Protector\HasoVM.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Runtime\obj\x64\Protector\HasoVM.Runtime.dll

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasoVM.Core", "HasoVM.Core\HasoVM.Core.csproj", "{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9} = {317EBB1E-6C8D-441B-8563-E337B46DB6B9}
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF} = {5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasoVM.CLI", "HasoVM.CLI\HasoVM.CLI.csproj", "{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasoVM.Runtime", "HasoVM.Runtime\HasoVM.Runtime.csproj", "{317EBB1E-6C8D-441B-8563-E337B46DB6B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Protector|Any CPU = Protector|Any CPU
+		Protector|x64 = Protector|x64
+		Protector|x86 = Protector|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}.Protector|Any CPU.ActiveCfg = Protector|Any CPU
+		{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}.Protector|Any CPU.Build.0 = Protector|Any CPU
+		{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}.Protector|x64.ActiveCfg = Protector|x64
+		{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}.Protector|x64.Build.0 = Protector|x64
+		{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}.Protector|x86.ActiveCfg = Protector|Any CPU
+		{7DC8ED4E-5578-48AB-B0E5-DB06643040F4}.Protector|x86.Build.0 = Protector|Any CPU
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}.Protector|Any CPU.ActiveCfg = Protector|Any CPU
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}.Protector|Any CPU.Build.0 = Protector|Any CPU
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}.Protector|x64.ActiveCfg = Protector|x64
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}.Protector|x64.Build.0 = Protector|x64
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}.Protector|x86.ActiveCfg = Protector|Any CPU
+		{5ABC1A5A-5C6F-4F9D-93E8-C004B81616FF}.Protector|x86.Build.0 = Protector|Any CPU
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9}.Protector|Any CPU.ActiveCfg = Protector|Any CPU
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9}.Protector|Any CPU.Build.0 = Protector|Any CPU
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9}.Protector|x64.ActiveCfg = Protector|x64
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9}.Protector|x64.Build.0 = Protector|x64
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9}.Protector|x86.ActiveCfg = Protector|Any CPU
+		{317EBB1E-6C8D-441B-8563-E337B46DB6B9}.Protector|x86.Build.0 = Protector|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6C3111-76BD-41B0-A77D-B2F690C5CCBF}
+	EndGlobalSection
+EndGlobal

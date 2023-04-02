@@ -1,0 +1,26 @@
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\bin\x64\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\bin\x64\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\bin\x64\Protector\dnlib.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\bin\x64\Protector\ReaLTaiizor.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\bin\x64\Protector\dnlib.xml
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\bin\x64\Protector\ReaLTaiizor.xml
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\x64\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\bin\x64\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\bin\x64\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\bin\x64\Protector\dnlib.dll
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\bin\x64\Protector\ReaLTaiizor.dll
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\bin\x64\Protector\dnlib.xml
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\bin\x64\Protector\ReaLTaiizor.xml
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\x64\Protector\HasoVM.Core.pdb

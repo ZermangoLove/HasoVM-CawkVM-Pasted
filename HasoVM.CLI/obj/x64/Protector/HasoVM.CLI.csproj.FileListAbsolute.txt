@@ -1,0 +1,12 @@
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\HasoVM.CLI.exe.config
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\HasoVM.CLI.exe
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\HasoVM.Runtime.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\dnlib.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\bin\x64\Protector\dnlib.xml
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\obj\x64\Protector\HasoVM.CLI.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\obj\x64\Protector\HasoVM.CLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\obj\x64\Protector\HasoVM.CLI.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\obj\x64\Protector\HasoVM.CLI.csproj.CopyComplete
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.CLI\obj\x64\Protector\HasoVM.CLI.exe

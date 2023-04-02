@@ -1,0 +1,73 @@
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM Release\HasoVM.Core.dll
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM Release\HasoVM.Core.pdb
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.GUI.MainForm.resources
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\0x29A\Desktop\Projects\HasoVM\New folder\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM Release\HasoVM.Core.dll
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM Release\HasoVM.Core.pdb
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\0x29A\Documents\GitHub\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM Release\HasoVM.Core.dll
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM Release\HasoVM.Core.pdb
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\0x29A\Desktop\Github Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM Release\HasoVM.Core.dll
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM Release\HasoVM.Core.pdb
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\0x29A\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM Release\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM Release\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM Release\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM Release\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\HasoVM-Development - Copy\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM Release\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM Release\HasoVM.Core.pdb
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\root\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM Release\HasoVM.Core.dll
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM Release\HasoVM.Core.pdb
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.AssemblyReference.cache
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.Properties.Resources.resources
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.GenerateResource.cache
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.csproj.CopyComplete
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.dll
+C:\Users\doggo\Desktop\Projects\Customer\HasoVM\HasoVM.Core\obj\Protector\HasoVM.Core.pdb
